@@ -16,7 +16,7 @@ To use the material  provided in this repository, please download the .Rmd and P
   - `Changing Occupational Profiles_Instructions.docx`: outline of the information provided to EO4GEO partners for the generation of occupational profiles
   - `DACUM_Workshop.pptx`: Instructions for a DACUM workshop
   - `Profile_Templates.pptx`: Templates for occupational profiles
-- Folder: Duties_Task_Renaming
+- Folder: duty_task_renaming
   - `_Readme_VUE_mindmaps.txt`
   - `duties_mindmap_07_06_2019.pdf`: overview on the renaming of duties
   - `Tasks_mindmap_090719.pdf`: overview on the renaming of tasks
