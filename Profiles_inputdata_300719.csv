@@ -1,0 +1,529 @@
+;profile.name;profile.source;duty;task;skill.level..s.t.c.;task.order;future.trend;original.task.name;duty.man;task.man
+1;Data Manager;UNEP;Project Maintenance (manage projects and communication);NA;s ;1;;communication flow within project/team;project management;internal project communication
+2;Data Manager;UNEP;Project Maintenance (manage projects and communication);NA;c;2;pas;task planning and scheduling on time;project management;time and resource planning
+3;Data Manager;UNEP;Project Maintenance (manage projects and communication);NA;s;3;pas;reporting of progress, results, challenges (briefing on tasks status);project management;report on activities/progress
+4;Data Manager;UNEP;Project Maintenance (manage projects and communication);NA;c;4;amd;documenting activities within projects (with use of tools such as GitHub. Google Docs);project management;report on activities/progress
+5;Data Manager;UNEP;Project Maintenance (manage projects and communication);NA;c;5;;Evaluation of conducted tasks;project management;evaluate conducted tasks
+6;Data Manager;UNEP;Project conceptualization and development;NA;c;1;;User needs assessment on data and information;projects conception;assess user/customer needs
+7;Data Manager;UNEP;Project conceptualization and development;NA;c;2;;define the methodology;projects conception;define methodology
+8;Data Manager;UNEP;Project conceptualization and development;NA;c;3;ias;implement (standardized) predefined workflows;projects conception;implement predefined workflows
+9;Data Manager;UNEP;Project conceptualization and development;NA;t;4;;application of most adequate software/tools;projects conception;application of most adequate software/tools
+10;Data Manager;UNEP;Data acquisition;NA;c;1;pas;define required types and thematic scope of data search for data;data acquisition;identify required types of data
+10;Data Manager;UNEP;Data acquisition;NA;c;2;pas;define required types and thematic scope of data search for data;data acquisition;search for data
+11;Data Manager;UNEP;Data acquisition;NA;t;3;;metadata catalogues browsing;data acquisition;metadata catalogues browsing
+12;Data Manager;UNEP;Data acquisition;NA;c;4;pas;requests to data owners (official procedures);data acquisition;acquire data
+13;Data Manager;UNEP;Data acquisition;NA;c;5;bds;validation of acquired data to project needs;data acquisition;validation of acquired data to project needs
+14;Data Manager;UNEP;Data acquisition;NA;c;6;;trouble shoot issues with the data;data acquisition;trouble shoot issues with data or data acquisition
+15;Data Manager;UNEP;Data preprocessing;NA;c;1;bds;CRS validation;data preprocessing;CRS validation (Common Reporting Standard)
+16;Data Manager;UNEP;Data preprocessing;NA;c;2;bds;data quality and consistency control (geometry, topology, attributes);data preprocessing;control of data quality
+17;Data Manager;UNEP;Data preprocessing;NA;c;3;bds;Harmonisation of data from various sources;data preprocessing;harmonisation of data from various sources
+18;Data Manager;UNEP;Data preprocessing;NA;t;4;pas;design of new content in attribute table (ordering or reclassifying);data preprocessing;design of new content in attribute table
+19;Data Manager;UNEP;Data analysis (spatial analysis);NA;c;1;;Identification of steps and design of processing algorithm;data analysis;identify steps and design of processing algorithm
+20;Data Manager;UNEP;Data analysis (spatial analysis);NA;c;2;;combine data for adding context, further information;data analysis;combine data for adding context, further information
+21;Data Manager;UNEP;Data analysis (spatial analysis);NA;c;3;;expert evaluation of adopted methodological approach;data analysis;expert evaluation of adopted methodological approach
+22;Data Manager;UNEP;Data analysis (spatial analysis);NA;c;4;;interpret data using expert knowledge;data analysis;interpret data using expert knowledge
+23;Data Manager;UNEP;Data analysis (spatial analysis);NA;c;5;amd;using of dedicated tools for processing;data analysis;using of dedicated tools for processing
+24;Data Manager;UNEP;Data sharing and Publishing;NA;c;1;ias;design of maps presentation (templates, composition);deliverables/product preparation;design of maps
+25;Data Manager;UNEP;Data sharing and Publishing;NA;c;2;;preparation of data to be published in geoportal;deliverables/product preparation;prepare data to be published in geoportal
+26;Data Manager;UNEP;Data sharing and Publishing;NA;t;3;;input of data resources (GIS project and data) to external databases (for the use of geoportal presentations);deliverables/product preparation;input of data resources
+27;Data Manager;UNEP;Data sharing and Publishing;NA;c;4;;create information on products (PDF, www, geoportal presentations) ppt for conferences;deliverables/product preparation;prepare product description
+28;Data Manager;UNEP;Professional development;NA;s;1;;visit conferences;professional development;visit/participate in conferences/events
+29;Data Manager;UNEP;Professional development;NA;c;2;;take training (webinars,…);professional development;take training and develop professional skills
+66;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;project planning;NA;c;1;;identify project idea and objectives;project planning;define project objectives and goals
+67;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;project planning;NA;c;2;;identification of project work packages and deliverables;project planning;identify project work packages and deliverables
+68;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;project planning;NA;c;3;;study of existing capabilities;project planning;study of existing capabilities
+69;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;project planning;NA;c;4;;definition of required data;project planning;define required data
+70;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;project planning;NA;c;5;;definition of methodology;project planning;define methodology
+71;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;project planning;NA;c;6;;project proposal creation;project planning;prepare proposals and offers
+72;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;manage projects;NA;c;1;;prepare progess reports;project management;prepare progess reports
+73;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;manage projects;NA;c;2;;prepare deliverables;project management;write reports/deliverables
+74;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data acquisition;NA;c;1;;define parameters for airborne missions;data acquisition;define parameters for airborne missions
+75;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data acquisition;NA;c;2;;define sensor configuration;data acquisition;define sensor configuration
+76;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data acquisition;NA;t;3;;create site maps;data acquisition;create site maps
+77;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data acquisition;NA;t;4;;search for satellite data provider services;data acquisition;search for satellite data provider services
+78;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data acquisition;NA;t;5;;download of satellite data;data acquisition;order and download data
+79;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data acquisition;NA;c;6;;examine the data quality;data acquisition;check the data quality
+80;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data acquisition;NA;c;7;;trouble shoot issues with data or data acquisition;data acquisition;trouble shoot issues with data or data acquisition
+81;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;ground-truth and validation;NA;c;1;;preparation of validation and sampling plan;quality control and validation;prepare validation and sampling plan
+82;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;ground-truth and validation;NA;t;2;;preparation of equipment;quality control and validation;prepare equipment
+83;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;ground-truth and validation;NA;t;3;;conduction of in-situ measurements;quality control and validation;conduct in-situ measurements
+84;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;ground-truth and validation;NA;t;4;;organize acquired data;quality control and validation;organize acquired data
+85;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;ground-truth and validation;NA;t;5;;collect GPS coordinates of sampling points ;quality control and validation;collect gps coordinates of sampling points
+86;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;ground-truth and validation;NA;t;6;;archieve database management;quality control and validation;achieve database management
+87;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;1;;PosNavProcessing (processing of aircraft positional data);data analysis;processing of aircraft positional data
+88;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;2;;Airborne data pre-processing (radiometric correction, geometric correction, coregistration);data analysis;airborne data pre-processing
+89;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;3;;atmospheric correction for airborne data;data analysis;atmospheric correction 
+90;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;4;;atmospheric correction for satellite data;data analysis;atmospheric correction
+91;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;5;;SAR data preprocessing (calibration, multilooking, filtering, terrain correction, coregistration, interferometry);data analysis;sar data preprocessing
+92;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;c;6;;multisensor data fusion;data analysis;multisensor data fusion
+93;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;7;;data enhancement or filtering;data analysis;data enhancement or filtering
+94;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;8;;creation of data mosaics;data analysis;create image mosaics
+95;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;9;;generate LiDAR derived products (DSM, DTM, nDSM, aspect ratio, slope);data analysis;generate lidar derived products
+96;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;10;;creation of difference image;data analysis;create difference image
+97;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;11;;creation of remote sensing index layers;data analysis;create band ratios/index layers
+98;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;c;12;;prepare reference data for classification;data analysis;prepare reference data for classification
+99;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;13;;perform machine learning based classification;data analysis;perform machine learning based classification
+100;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;14;;image transformation (eg. PCS, MNF);data analysis;perform data conversion
+101;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;15;;extract areas of interest (masking or clipping);data analysis;extract areas of interest
+102;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;16;;prepared script implementation for processing and pre-processing steps;data analysis;write geoprocessing scripts
+103;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;17;;reprojection;data analysis;(re)project data
+104;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data processing;NA;t;18;;thresholding;data analysis;thresholding
+105;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;c;1;;visual interpretation;data analysis;perform image interpretation
+106;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;t;2;;normalization of datasets;data analysis;normalization of datasets
+107;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;c;3;;modelling analysis;data analysis;modelling analysis
+108;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;c;4;;compare in-situ data with remote sensing data;data analysis;compare in-situ data with remote sensing data
+109;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;c;5;;regression and correlation analysis;data analysis;regression and correlation analysis
+110;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;c;6;;time series analysis;data analysis;time series analysis
+111;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;c;7;;evaluation of trends in data;data analysis;evaluate trends in data
+112;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;c;8;;spectral analysis;data analysis;spectral analysis
+113;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Data analysis  ;NA;t;9;;statistical parameters of data set (min, max, mean, median, various percentile, standard deviation, etc.);data analysis;statistical parameters of data set
+114;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Accuracy assessment;NA;t;1;;correlation with validation dataset;quality control and validation;correlation with validation dataset
+115;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Accuracy assessment;NA;t;2;;confusion matrix;quality control and validation;confusion matrix
+116;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Accuracy assessment;NA;t;3;;classification accuracy estimation (users, producers, overall, kappa value);quality control and validation;assess accuracy of classification
+117;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Accuracy assessment;NA;c;4;;end-user feedback;quality control and validation;acquire user/customer feedback
+118;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;Accuracy assessment;NA;t;5;;RMSE evaluation;quality control and validation;rmse evaluation
+119;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;development of end-products;NA;t;1;;data post-processing;deliverables/product preparation;post-processing of data
+120;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;development of end-products;NA;t;2;;preparation of the visual material (maps, charts, tables, videos);deliverables/product preparation;prepare visual material
+121;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;development of end-products;NA;c;3;;prepare reports, methodology, documentation of the end product;deliverables/product preparation;report on activities/progress
+122;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;development of end-products;NA;c;6;;product description ;deliverables/product preparation;prepare product description
+123;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;reseach and development;NA;c;1;;following the  latest advances in the field;research and development;follow the latest advances in the field
+124;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;reseach and development;NA;t;2;;test latest methods and techniques on various data sets;research and development;examine and test new tools for data processing and analysis
+125;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;reseach and development;NA;c;3;;examining the possibilities of new data sets (different satellite platforms);research and development;examine possibilities of new data sets
+126;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;reseach and development;NA;c;4;;examining and testing new tools for data processing and analysis;research and development;examine and test new tools for data processing and analysis
+127;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;reseach and development;NA;c;5;;developing new automated workflows;research and development;implement predefined workflows
+128;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;reseach and development;NA;c;6;;development of new algorithms;research and development;develop and apply algorithms
+129;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;professional development;NA;c;1;;presentation of the results;professional development;presentation of the results
+130;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;professional development;NA;s;2;;participating in webinars;professional development;take training and develop professional skills
+131;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;professional development;NA;s;3;;attending conferences;professional development;visit/participate in conferences/events
+132;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;professional development;NA;c;4;;development of professional skills (online courses, examination of available information);professional development;take training and develop professional skills
+133;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;professional development;NA;c;5;;reading remote sensing related publications;professional development;conduct literature review
+134;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;professional development;NA;c;6;;take part in creating scientific publications;professional development;write publications
+135;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data management;NA;t;1;;processed data storage on the server;data management;processed data storage on the server
+136;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data management;NA;t;2;;data base fusion;data management;data base fusion
+137;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;data management;NA;t;3;;optimization of storage space;data management;optimization of storage space
+138;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;communication;NA;s;1;;reporting on ongoing activities;communication and interaction with stakeholders;report on activities/progress
+139;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;communication;NA;s;2;;discussing the results with the colleagues ;communication and interaction with stakeholders;discuss results with the colleagues
+140;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;communication;NA;s;3;;communication with product end-users;communication and interaction with stakeholders;continuous exchange with users/clients
+141;GIS developer;GIB;communication;NA;s;1;;answering and replying to email;communication and interaction with stakeholders;answering and replying to email
+142;GIS developer;GIB;communication;NA;t;2;;structure and routine around email;communication and interaction with stakeholders;answering and replying to email
+143;GIS developer;GIB;communication;NA;c;3;;knowledge transfer;communication and interaction with stakeholders;knowledge transfer
+144;GIS developer;GIB;communication;NA;s;4;;meetings;communication and interaction with stakeholders;take part in project meetings and workshops
+145;GIS developer;GIB;communication;NA;c;5;;presentations;communication and interaction with stakeholders;prepare and conduct presentations
+146;GIS developer;GIB;communication;NA;c;6;;workshops;communication and interaction with stakeholders;take part in project meetings and workshops
+147;GIS developer;GIB;planning;NA;s;1;ias;time reports;project management;time reports
+148;GIS developer;GIB;planning;NA;s;2;;long term planning (projects, life all together);project management;long term planning
+149;GIS developer;GIB;planning;NA;s;3;;daily planning of tasks;project management;time and resource planning
+150;GIS developer;GIB;Professional development;NA;c;1;;keeping up with research;professional development;keep up with research
+151;GIS developer;GIB;Professional development;NA;c;2;;keeping up to date with industry development;professional development;keep up to date with industry development
+152;GIS developer;GIB;Professional development;NA;t;3;;learning and trying new tools;professional development;learn new methods and tools
+153;GIS developer;GIB;systems administration;NA;t;1;pas;database creation;IT infrastructure and application development;database creation
+154;GIS developer;GIB;systems administration;NA;t;2;;data ingestion;IT infrastructure and application development;data ingestion
+155;GIS developer;GIB;systems administration;NA;c;3;pas;server/VPS setup;IT infrastructure and application development;server/vps setup
+156;GIS developer;GIB;systems administration;NA;t;4;;data transformations required for ingestion;IT infrastructure and application development;perform data conversion
+157;GIS developer;GIB;systems administration;NA;c;5;pas;general server security/hardening;IT infrastructure and application development;general server security
+158;GIS developer;GIB;systems administration;NA;t;6;pas;SSL/https;IT infrastructure and application development;ssl/https
+159;GIS developer;GIB;systems administration;NA;t;7;pas;server availability, SSH, who has access, DNS, domains;IT infrastructure and application development;server availability, ssh, who has access, dns, domains
+160;GIS developer;GIB;systems administration;NA;t;8;;Docker;IT infrastructure and application development;dockerize solutions
+161;GIS developer;GIB;systems administration;NA;t;9;pas;Dokku;IT infrastructure and application development;documentation  
+162;GIS developer;GIB;data analysis (incl. project work);NA;t;1;more important in 5-10 years;data acquisition;data analysis;acquire data
+163;GIS developer;GIB;data analysis (incl. project work);NA;c;2;;data suitability ;data analysis;data suitability
+164;GIS developer;GIB;data analysis (incl. project work);NA;t;3;;overview and control of input data;data analysis;overview and control of input data
+165;GIS developer;GIB;data analysis (incl. project work);NA;t;4;;writing scripts;data analysis;write geoprocessing scripts
+166;GIS developer;GIB;data analysis (incl. project work);NA;t;5;;input data structure, keeping data integrity;data analysis;input/output data structure
+167;GIS developer;GIB;data analysis (incl. project work);NA;c;6;;visualization;data analysis;visualization
+168;GIS developer;GIB;data analysis (incl. project work);NA;t;7;;delivery;data analysis;delivery to the customer 
+169;GIS developer;GIB;data analysis (incl. project work);NA;c;8;;report and presentation;data analysis;write reports/deliverables
+170;GIS developer;GIB;validation and quality control;NA;c;1;;suitability of chosen methodology;quality control and validation;suitability of chosen methodology
+171;GIS developer;GIB;validation and quality control;NA;t;2;;defining requirements for expected results;quality control and validation;define requirements for expected results
+172;GIS developer;GIB;validation and quality control;NA;t;3;more important in 5-10 years;quality assessment, accuracy evaluation;quality control and validation;quality assessment, accuracy evaluation
+173;GIS developer;GIB;validation and quality control;NA;t;4;more important in 5-10 years;validation of results, assessment vs. Requirements;quality control and validation;validate results
+174;GIS developer;GIB;validation and quality control;NA;s;5;;quality report ;quality control and validation;report on data quality
+175;GIS developer;GIB;application development;NA;t;1;;deployment process;IT infrastructure and application development;deployment process
+176;GIS developer;GIB;application development;NA;c;2;;application architecture;IT infrastructure and application development;application architecture
+177;GIS developer;GIB;application development;NA;t;3;;version control;IT infrastructure and application development;versioning
+178;GIS developer;GIB;application development;NA;c;4;;API-design;IT infrastructure and application development;api-design
+179;GIS developer;GIB;application development;NA;c;5;;user interface design;IT infrastructure and application development;user interface design
+180;GIS developer;GIB;application development;NA;t;6;;webserver;IT infrastructure and application development;webserver
+181;GIS developer;GIB;application development;NA;t;7;;server side processes;IT infrastructure and application development;server side processes
+182;GIS developer;GIB;application development;NA;t;8;;user authentification;IT infrastructure and application development;user authentification
+183;GIS developer;GIB;application development;NA;c;9;;security;IT infrastructure and application development;general server security
+184;GIS developer;GIB;application development;NA;s;10;;collaboration;IT infrastructure and application development;collaboration
+185;GIS developer;GIB;application development;NA;c;11;;web client;IT infrastructure and application development;web client
+186;GIS developer;GIB;application development;NA;t;12;;web maps and interface;IT infrastructure and application development;web maps and interface
+187;GIS developer;GIB;application development;NA;s;13;;documentation;IT infrastructure and application development;report on activities/progress
+241;Remote Sensing Researcher;IGiK;communication;NA;c;1;;prepare and communicate an offer (incl. a quote);communication and interaction with stakeholders;prepare proposals and offers
+242;Remote Sensing Researcher;IGiK;project conceptualization;NA;c;1;;analyse needs of users (incl. Order info);projects conception;assess user/customer needs
+243;Remote Sensing Researcher;IGiK;project conceptualization;NA;c;2;;define required types of data;projects conception;identify required types of data
+244;Remote Sensing Researcher;IGiK;project conceptualization;NA;c;3;;define the methodology;projects conception;define methodology
+245;Remote Sensing Researcher;IGiK;project conceptualization;NA;c;4;;identification of required data;projects conception;identify required types of data
+246;Remote Sensing Researcher;IGiK;project conceptualization;NA;c;5;;create classification scheme (incl. semantics) ;projects conception;create classification schemes
+247;Remote Sensing Researcher;IGiK;Data preprocessing;NA;t;1;;data manipulation, filtering;data preprocessing;data manipulation, filtering
+248;Remote Sensing Researcher;IGiK;data analysis;NA;c;1;;perform image classification;data analysis;conduct image classification
+249;Remote Sensing Researcher;IGiK;data analysis;NA;c;2;;interpret data using expert knowledge;data analysis;perform image interpretation
+250;Remote Sensing Researcher;IGiK;data analysis;NA;c;3;;modelling for data analysis (e.g. hydrological modelling, habitat);data analysis;modelling for data analysis
+251;Remote Sensing Researcher;IGiK;data analysis;NA;c;4;;perform change detection;data analysis;perform change detection
+252;Remote Sensing Researcher;IGiK;data analysis;NA;c;5;;combine data for adding context, further information;data analysis;combine data for adding context, further information
+253;Remote Sensing Researcher;IGiK;validation;NA;t;1;;assessing accuracy of classification;quality control and validation;assess accuracy of classification
+254;Remote Sensing Researcher;IGiK;validation;NA;c;2;;scientific discussion and proofing of results;quality control and validation;scientific discussion and proofing of results
+255;Remote Sensing Researcher;IGiK;final product creation;NA;c;1;;prepare a product description;deliverables/product preparation;prepare product description
+256;Remote Sensing Researcher;IGiK;final product creation;NA;c;2;;supervise elaboration of information products (PDF, web mapping,…);deliverables/product preparation;supervise elaboration of information products
+257;Remote Sensing Researcher;IGiK;manage projects;NA;c;1;;supervise reporting;project management;supervise reporting
+258;Remote Sensing Researcher;IGiK;manage projects;NA;c;2;;define project structure;project management;define project structure
+259;Remote Sensing Researcher;IGiK;manage projects;NA;c;3;;specify detailed project plan;project management;specify detailed project plan
+260;Remote Sensing Researcher;IGiK;manage projects;NA;c;4;;re-evaluate the workflow (lessons learned);project management;re-evaluate the workflow
+261;Remote Sensing Researcher;IGiK;reseach and development;NA;t;1;;test alternative software products/algorithms;research and development;examine and test new tools for data processing and analysis
+262;Remote Sensing Researcher;IGiK;reseach and development;NA;c;2;;explore/evaluate upcoming developments and trends;research and development;explore future trends
+263;Remote Sensing Researcher;IGiK;reseach and development;NA;c;3;;develop predefined workflow (eg. OBIA workflow, preprocessing workflow,…);research and development;develop predefined workflow (eg. OBIA workflow, preprocessing workflow,…)
+264;Remote Sensing Researcher;IGiK;Professional development;NA;s;1;;visit conferences;professional development;visit/participate in conferences/events
+265;Remote Sensing Researcher;IGiK;Professional development;NA;s;2;;take training (webinars,…);professional development;take training
+266;Remote Sensing Researcher;IGiK;Professional development;NA;c;3;;internal brainstorming;professional development;internal project communication
+267;Remote Sensing Researcher;IGiK;data management;NA;c;1;;supervise data sharing;data management;share data
+268;Remote Sensing Researcher;IGiK;data management;NA;c;2;;license data;data management;license data
+269;Remote Sensing Researcher;IGiK;dissemination;NA;s;1;;identification of target groups;dissemination;identify target groups
+270;Remote Sensing Researcher;IGiK;dissemination;NA;c;2;;organisation of meetings with end users;dissemination;organisation of meetings with end users
+271;Remote Sensing Researcher;IGiK;dissemination;NA;c;3;;supervise inputs to website, social media and dissemination services;dissemination;supervise inputs to website, social media and dissemination services
+272;Remote Sensing Researcher;IGiK;dissemination;NA;s;4;;participation in events (conferences, workshops, trainings, etc.);dissemination;visit/participate in conferences/events
+273;Remote Sensing Researcher;IGiK;dissemination;NA;c;5;;preparing publications;dissemination;write publications
+274;Remote Sensing Specialist;IGiK;communication;NA;s;1;;continuous exchange with users;communication and interaction with stakeholders;continuous exchange with users/clients
+275;Remote Sensing Specialist;IGiK;communication;NA;s;2;;communication within the organization;communication and interaction with stakeholders;internal project communication
+276;Remote Sensing Specialist;IGiK;communication;NA;s;3;;communication with data providers and other stakeholders;communication and interaction with stakeholders;communicate with data providers and other stakeholders
+277;Remote Sensing Specialist;IGiK;project conceptualization;NA;t;1;;define required types of data;projects conception;identify required types of data
+278;Remote Sensing Specialist;IGiK;project conceptualization;NA;c;2;;create classification schemes (incl. Semantics);projects conception;create classification schemes
+279;Remote Sensing Specialist;IGiK;data acquisition;NA;t;1;;search for data;data acquisition;search for data
+280;Remote Sensing Specialist;IGiK;data acquisition;NA;t;2;;order archived data (images and vector data);data acquisition;order archived data
+281;Remote Sensing Specialist;IGiK;data acquisition;NA;c;3;;collect in-field data (GPS, reference data,…);data acquisition;collect in-field data
+282;Remote Sensing Specialist;IGiK;data acquisition;NA;c;4;;task of a custom image (custom parameter settings);data acquisition;tasking of a custom image
+283;Remote Sensing Specialist;IGiK;data acquisition;NA;c;5;;assure data quality;data acquisition;assure data quality
+284;Remote Sensing Specialist;IGiK;data acquisition;NA;c;6;;trouble shoot issues with the data;data acquisition;trouble shoot issues with data or data acquisition
+285;Remote Sensing Specialist;IGiK;Data preprocessing;NA;t;1;;radiometric aI calibration;data preprocessing;radiometric calibration
+286;Remote Sensing Specialist;IGiK;Data preprocessing;NA;t;2;;atmospheric & geometric correction (ortho-rectification, co-registration,…);data preprocessing;atmospheric correction
+286;Remote Sensing Specialist;IGiK;Data preprocessing;NA;t;3;;atmospheric & geometric correction (ortho-rectification, co-registration,…);data preprocessing;geometric correction
+287;Remote Sensing Specialist;IGiK;Data preprocessing;NA;t;4;;perform image enhancement (pan-sharpening);data preprocessing;perform image enhancement
+288;Remote Sensing Specialist;IGiK;Data preprocessing;NA;t;5;;data manipulation, filtering;data preprocessing;data manipulation, filtering
+289;Remote Sensing Specialist;IGiK;Data preprocessing;NA;t;6;;LiDAR, data processing;data preprocessing;process lidar data
+290;Remote Sensing Specialist;IGiK;Data analysis;NA;t;1;;perform image classification;data analysis;conduct image classification
+291;Remote Sensing Specialist;IGiK;Data analysis;NA;t;2;;delineate objects manually (eg. houses);data analysis;perform image interpretation
+292;Remote Sensing Specialist;IGiK;Data analysis;NA;c;3;;perform change detection;data analysis;perform change detection
+293;Remote Sensing Specialist;IGiK;Data analysis;NA;c;4;;combine data for adding context, further information;data analysis;combine data for adding context, further information
+294;Remote Sensing Specialist;IGiK;validation;NA;t;1;;assessing accuracy of classification;quality control and validation;assess accuracy of classification
+295;Remote Sensing Specialist;IGiK;validation;NA;c;2;;acquire feedback from users (user validation);quality control and validation;acquire user/customer feedback
+296;Remote Sensing Specialist;IGiK;validation;NA;c;3;;incorporate feedback;quality control and validation;incorporate user/customer feedback
+297;Remote Sensing Specialist;IGiK;final product creation;NA;t;1;;design look & feel of product (might include template);deliverables/product preparation;design look and feel of product
+298;Remote Sensing Specialist;IGiK;final product creation;NA;t;2;;prepare a product description;deliverables/product preparation;prepare product description
+299;Remote Sensing Specialist;IGiK;final product creation;NA;t;3;;post-processing of data (format conversion, metadata,…);deliverables/product preparation;post-processing of data
+300;Remote Sensing Specialist;IGiK;final product creation;NA;t;4;;create information on products (PDF, web map,…) ;deliverables/product preparation;prepare product description
+301;Remote Sensing Specialist;IGiK;manage projects;NA;s;1;;time keeping and reporting;project management;meet deadlines
+301;Remote Sensing Specialist;IGiK;manage projects;NA;s;2;;time keeping and reporting;project management;reporting
+302;Remote Sensing Specialist;IGiK;manage projects;NA;t;3;;manage resources (licenses, data storage, computers,…);project management;manage resources
+303;Remote Sensing Specialist;IGiK;reseach and development;NA;t;1;;test alternative software products/algorithms;research and development;examine and test new tools for data processing and analysis
+304;Remote Sensing Specialist;IGiK;reseach and development;NA;c;2;;develop predefined workflow (eg. OBIA workflow, preprocessing workflow,…);research and development;develop predefined workflow
+305;Remote Sensing Specialist;IGiK;Professional development;NA;s;1;;visit conferences;professional development;visit/participate in conferences/events
+306;Remote Sensing Specialist;IGiK;Professional development;NA;s;2;;take training (webinars,…);professional development;take training
+307;Remote Sensing Specialist;IGiK;Professional development;NA;c;3;;internal brainstorming;professional development;internal brainstorming
+308;Remote Sensing Specialist;IGiK;data management;NA;t;1;;store data ;data management;store data
+309;Remote Sensing Specialist;IGiK;data management;NA;t;2;;versioning;data management;versioning
+310;Remote Sensing Specialist;IGiK;data management;NA;t;3;;share data;data management;share data
+311;Remote Sensing Specialist;IGiK;data management;NA;c;4;;license data;data management;license data
+312;Remote Sensing Specialist;IGiK;dissemination;NA;s;1;;identification of target groups;dissemination;identify target groups
+313;Remote Sensing Specialist;IGiK;dissemination;NA;t;2;;organisation of meetings with end users;dissemination;organisation of meetings with end users
+314;Remote Sensing Specialist;IGiK;dissemination;NA;t;3;;input to website, social media and dissemination services;dissemination;maintain and update web page
+314;Remote Sensing Specialist;IGiK;dissemination;NA;t;4;;input to website, social media and dissemination services;dissemination;input to social media and dissemination services
+315;Remote Sensing Specialist;IGiK;dissemination;NA;s;5;;participation in the events (conferences, workshops, trainings, etc.);dissemination;visit/participate in conferences/events
+316;Remote Sensing Specialist;IGiK;dissemination;NA;c;6;;preparing publications;dissemination;write publications
+317;Remote Sensing Technician;IGiK;data acquisition;NA;t;1;;collect in-field data (GPS, reference data,…);data acquisition;collect in-field data
+318;Remote Sensing Technician;IGiK;manage projects;NA;s;1;;contracting, preparing bills etc. --> administer project;project management;contracting, preparing bills etc. --> administer project
+319;Remote Sensing Technician;IGiK;Professional development;NA;s;1;;take training (webinars,…);professional development;take training
+320;Remote Sensing Technician;IGiK;data management;NA;t;1;;store data;data management;store data
+321;Remote Sensing Technician;IGiK;data management;NA;t;2;;versioning;data management;versioning
+322;Remote Sensing Technician;IGiK;data management;NA;t;3;;share data;data management;share data
+323;Remote Sensing Technician;IGiK;dissemination;NA;s;1;;technical support to website, social media and dissem. Services maintenance;dissemination;technical support to website, user meetings
+324;Remote Sensing Technician;IGiK;dissemination;NA;s;2;;technical support to organisation of meetings with end users;dissemination;technical support to website, user meetings
+325;Remote Sensing SpecialistPLUS;PLUS;communication;NA;s;1;;continuous exchange with users;communication and interaction with stakeholders;continuous exchange with users/clients
+326;Remote Sensing SpecialistPLUS;PLUS;communication;NA;s;2;;reporting of progress, results, challenges;communication and interaction with stakeholders;report on activities/progress
+327;Remote Sensing SpecialistPLUS;PLUS;communication;NA;c;3;;prepare and communicate an offer (incl. a quote);communication and interaction with stakeholders;prepare proposals and offers
+328;Remote Sensing SpecialistPLUS;PLUS;communication;NA;s;4;;communication within the organization;communication and interaction with stakeholders;internal project communication
+329;Remote Sensing SpecialistPLUS;PLUS;communication;NA;s;5;;communication with data providers and other stakeholders;communication and interaction with stakeholders;communicate with data providers and other stakeholders
+330;Remote Sensing SpecialistPLUS;PLUS;project conceptualization;NA;c;1;;analyse needs of users (incl. Order info);projects conception;analyse user needs
+331;Remote Sensing SpecialistPLUS;PLUS;project conceptualization;NA;c;2;;define required types of data;projects conception;identify required types of data
+332;Remote Sensing SpecialistPLUS;PLUS;project conceptualization;NA;c;3;;define the methodology;projects conception;define methodology
+333;Remote Sensing SpecialistPLUS;PLUS;project conceptualization;NA;t;4;ias;implement (standardized) predefined workflows;projects conception;implement predefined workflows
+334;Remote Sensing SpecialistPLUS;PLUS;project conceptualization;NA;c;5;ias;create classification schemes (incl. Semantics);projects conception;create classification schemes
+335;Remote Sensing SpecialistPLUS;PLUS;data acquisition;NA;t;1;pas;search for data;data acquisition;search for data
+336;Remote Sensing SpecialistPLUS;PLUS;data acquisition;NA;t;2;pas;order archived data (images and vector data);data acquisition;order archived data
+337;Remote Sensing SpecialistPLUS;PLUS;data acquisition;NA;c;3;;collect in-field data (GPS, reference data,…);data acquisition;collect in-field data
+338;Remote Sensing SpecialistPLUS;PLUS;data acquisition;NA;c;4;pas;tasking of a custom image (custom parameter settings);data acquisition;tasking of a custom image
+339;Remote Sensing SpecialistPLUS;PLUS;data acquisition;NA;c;5;analysis ready data;assure data quality;data acquisition;assure data quality
+340;Remote Sensing SpecialistPLUS;PLUS;data acquisition;NA;c;6;;trouble shoot issues with the data;data acquisition;trouble shoot issues with the data
+341;Remote Sensing SpecialistPLUS;PLUS;Data preprocessing;NA;t;1;analysis ready data;radiometric calibration;data preprocessing;radiometric calibration
+342;Remote Sensing SpecialistPLUS;PLUS;Data preprocessing;NA;t;2;analysis ready data;geometric correction (ortho-rectification, co-registration,…);data preprocessing;geometric correction
+343;Remote Sensing SpecialistPLUS;PLUS;Data preprocessing;NA;t;3;analysis ready data;perform image enhancement (pan-sharpening);data preprocessing;perform image enhancement
+344;Remote Sensing SpecialistPLUS;PLUS;Data preprocessing;NA;t;4;analysis ready data;data manipulation, filtering;data preprocessing;data manipulation, filtering
+345;Remote Sensing SpecialistPLUS;PLUS;Data preprocessing;NA;c;5;;LiDAR data processing (filter,…);data preprocessing;process lidar data
+346;Remote Sensing SpecialistPLUS;PLUS;Data preprocessing;NA;c;6;;preclassify data (satellite and LiDAR data);data preprocessing;preclassify data
+347;Remote Sensing SpecialistPLUS;PLUS;data analysis;NA;c;1;automation of procedures;perform image classification;data analysis;conduct image classification
+348;Remote Sensing SpecialistPLUS;PLUS;data analysis;NA;c;2;;interpret data using expert knowledge;data analysis;interpret data using expert knowledge
+349;Remote Sensing SpecialistPLUS;PLUS;data analysis;NA;c;3;ias;modelling for data analysis (e.g. hydrological modelling, habitat);data analysis;modelling for data analysis
+350;Remote Sensing SpecialistPLUS;PLUS;data analysis;NA;t;4;automation of procedures;delineate objects manually (eg. houses);data analysis;delineate objects manually
+351;Remote Sensing SpecialistPLUS;PLUS;data analysis;NA;c;5;automation of procedures;perform change detection;data analysis;perform change detection
+352;Remote Sensing SpecialistPLUS;PLUS;data analysis;NA;c;6;ias;combine data for adding context, further information;data analysis;combine data for adding context, further information
+353;Remote Sensing SpecialistPLUS;PLUS;validation;NA;t;1;automation of procedures;assessing accuracy of classification;quality control and validation;assess accuracy of classification
+354;Remote Sensing SpecialistPLUS;PLUS;validation;NA;c;2;;acquire feedback from users (user validation);quality control and validation;acquire user/customer feedback
+355;Remote Sensing SpecialistPLUS;PLUS;validation;NA;c;3;;incorporate feedback;quality control and validation;incorporate user/customer feedback
+356;Remote Sensing SpecialistPLUS;PLUS;final product creation;NA;t;1;;design look & feel of product (might include template);deliverables/product preparation;design look and feel of product
+357;Remote Sensing SpecialistPLUS;PLUS;final product creation;NA;t;2;ias;prepare a product description;deliverables/product preparation;prepare product description
+358;Remote Sensing SpecialistPLUS;PLUS;final product creation;NA;t;3;ias;post-processing of data (format conversion, metadata,…);deliverables/product preparation;post-processing of data
+359;Remote Sensing SpecialistPLUS;PLUS;final product creation;NA;t;4;;create information products (PDF, webmap);deliverables/product preparation;prepare product description
+360;Remote Sensing SpecialistPLUS;PLUS;manage projects ;NA;s;1;;time keeping;project management;time keeping
+361;Remote Sensing SpecialistPLUS;PLUS;manage projects ;NA;s;2;;contracting, preparing bills etc. --> administer project;project management;contracting, preparing bills etc. --> administer project
+362;Remote Sensing SpecialistPLUS;PLUS;manage projects ;NA;t;3;pas;manage resources (licenses, data storage, computers,…);project management;manage resources
+363;Remote Sensing SpecialistPLUS;PLUS;manage projects ;NA;c;4;;define project structure;project management;define project structure
+364;Remote Sensing SpecialistPLUS;PLUS;manage projects ;NA;c;5;;specify detailed project plan;project management;specify detailed project plan
+365;Remote Sensing SpecialistPLUS;PLUS;manage projects ;NA;c;6;;re-evaluate the workflow (lessons learned);project management;re-evaluate the workflow
+366;Remote Sensing SpecialistPLUS;PLUS;reseach and development;NA;t;1;;test alternative software products/algorithms;research and development;examine and test new tools for data processing and analysis
+367;Remote Sensing SpecialistPLUS;PLUS;reseach and development;NA;c;2;;explore/evaluate upcoming developments and trends;research and development;explore future trends
+368;Remote Sensing SpecialistPLUS;PLUS;reseach and development;NA;c;3;;develop predefined workflow (eg. OBIA workflow, preprocessing workflow,…);research and development;develop predefined workflow
+369;Remote Sensing SpecialistPLUS;PLUS;Professional development;NA;s;1;;visit conferences;professional development;visit/participate in conferences/events
+370;Remote Sensing SpecialistPLUS;PLUS;Professional development;NA;s;2;;take training (webinars,…);professional development;take training
+371;Remote Sensing SpecialistPLUS;PLUS;Professional development;NA;c;3;;give training;professional development;provide and conduct training/teaching
+372;Remote Sensing SpecialistPLUS;PLUS;data management;NA;t;1;pas;store data;data management;store data
+373;Remote Sensing SpecialistPLUS;PLUS;data management;NA;t;2;pas;versioning;data management;versioning
+374;Remote Sensing SpecialistPLUS;PLUS;data management;NA;t;3;pas;share data;data management;share data
+375;Remote Sensing SpecialistPLUS;PLUS;data management;NA;c;4;pas;license data;data management;license data
+376;Remote Sensing Scientist;FSU;project planning;NA;s;1;open science;communicate and exchange with other researchers;project planning;communicate and exchange with other researchers
+377;Remote Sensing Scientist;FSU;project planning;NA;s;2;;communicate with other stakeholders, analyse their needs;project planning;communicate with other stakeholders, analyse their needs
+378;Remote Sensing Scientist;FSU;project planning;NA;c;3;;search for project funding;project planning;search for project funding and new tenders
+379;Remote Sensing Scientist;FSU;project planning;NA;s;4;;communicate with data providers and potential funding agency;project planning;communicate with data providers
+379;Remote Sensing Scientist;FSU;project planning;NA;s;5;;communicate with data providers and potential funding agency;project planning;communicate with potential funding agency
+380;Remote Sensing Scientist;FSU;project planning;NA;c;6;;prepare (plan consortium and timeframe, schedule work, etc.), write and submit a project proposal;project planning;prepare, write and submit a project proposal
+381;Remote Sensing Scientist;FSU;project management;NA;s;1;;communicate and exchange with project parntners and funding agency;project management;communicate and exchange with project parntners and funding agency
+382;Remote Sensing Scientist;FSU;project management;NA;c;2;;define project main objectives;project management;define project objectives and goals
+383;Remote Sensing Scientist;FSU;project management;NA;c;3;;revise project structure and schedule;project management;revise project structure and schedule
+384;Remote Sensing Scientist;FSU;project management;NA;s;4;;meet deadlines;project management;meet deadlines
+385;Remote Sensing Scientist;FSU;project management;NA;c;5;pas;manage resources (licenses, data storage, computers,…);project management;manage resources
+386;Remote Sensing Scientist;FSU;project management;NA;s;6;;do administrational work;project management;do administrational work
+387;Remote Sensing Scientist;FSU;project management;NA;c;7;;wrote reports/deliverables;project management;reporting
+388;Remote Sensing Scientist;FSU;data management and processing;NA;t;1;pas;order and download data;data management;order and download data
+389;Remote Sensing Scientist;FSU;data management and processing;NA;c;2;citizen science;"collect data (reference data-in-situ data, GPS; UAV data)";data management;collect data
+390;Remote Sensing Scientist;FSU;data management and processing;NA;t;3;pas;install software;data management;install software
+391;Remote Sensing Scientist;FSU;data management and processing;NA;t;4;analysis ready data;organize and prepare data;data management;organize and prepare data
+392;Remote Sensing Scientist;FSU;data management and processing;NA;t;5;pas;backup data ;data management;backup data
+393;Remote Sensing Scientist;FSU;data management and processing;NA;c;6;pas;develop scripts;data management;write geoprocessing scripts
+394;Remote Sensing Scientist;FSU;data management and processing;NA;c;7;pas;debug scripts;data management;debug scripts
+395;Remote Sensing Scientist;FSU;data management and processing;NA;t;8;analysis ready data;process data;data management;process data
+396;Remote Sensing Scientist;FSU;data management and processing;NA;t;9;analysis ready data;assure data quality;data management;assure data quality
+397;Remote Sensing Scientist;FSU;data analysis;NA;t;1;open science;research, keep up to date;data analysis;research, keep up to date
+398;Remote Sensing Scientist;FSU;data analysis;NA;t;2;multidimensional data analysis;install software ;data analysis;install software
+399;Remote Sensing Scientist;FSU;data analysis;NA;t;3;multidimensional data analysis;apply algorithms and models (eg. Reproduce);data analysis;develop and apply algorithms
+400;Remote Sensing Scientist;FSU;data analysis;NA;c;4;multidimensional data analysis;develop and program algorithms, models and tools ;data analysis;develop and program algorithms, models and tools
+401;Remote Sensing Scientist;FSU;data analysis;NA;c;5;pas;benchmark code;data analysis;benchmark code
+402;Remote Sensing Scientist;FSU;data analysis;NA;c;6;pas;debug scripts;data analysis;debug scripts
+403;Remote Sensing Scientist;FSU;data analysis;NA;c;7;open science;discuss approach;data analysis;discuss approach
+404;Remote Sensing Scientist;FSU;data analysis;NA;c;8;multidimensional data analysis;analyse data;data analysis;analyse data
+405;Remote Sensing Scientist;FSU;data analysis;NA;c;9;multidimensional data analysis;extract information;data analysis;extract information
+406;Remote Sensing Scientist;FSU;interpretation of outcomes;NA;t;1;multidimensional data analysis;validate results (assess accuracy);deliverables/product preparation;validate results
+407;Remote Sensing Scientist;FSU;interpretation of outcomes;NA;t;2;multidimensional data analysis;analyse and interpret processes;deliverables/product preparation;analyse and interpret processes
+408;Remote Sensing Scientist;FSU;interpretation of outcomes;NA;c;3;open science;communicate and discuss with other researchers;deliverables/product preparation;communicate and exchange with other researchers
+409;Remote Sensing Scientist;FSU;interpretation of outcomes;NA;c;4;;acquire feedback from users ;deliverables/product preparation;acquire user/customer feedback
+410;Remote Sensing Scientist;FSU;dissemination of results;NA;c;1;open science;prepare and publish papers, codes;dissemination;prepare and publish papers, codes
+411;Remote Sensing Scientist;FSU;dissemination of results;NA;c;2;;write abstracts for conferences;dissemination;write publications
+412;Remote Sensing Scientist;FSU;dissemination of results;NA;s;3;;layout poster/presentation;dissemination;layout poster/presentation
+413;Remote Sensing Scientist;FSU;dissemination of results;NA;c;4;;network, communicate with other researchers (at conferences, workshops, etc.);dissemination;network, communicate with other researchers
+414;Remote Sensing Scientist;FSU;dissemination of results;NA;s;5;;dissemination on internet/social media;dissemination;dissemination on internet/social media
+415;Remote Sensing Scientist;FSU;research/work management;NA;c;1;;plan and prioritize tasks;research and development;time and resource planning
+416;Remote Sensing Scientist;FSU;research/work management;NA;t;2;;organize literature;research and development;conduct literature review
+417;Remote Sensing Scientist;FSU;research/work management;NA;s;3;;organize business travels;research and development;organize business travels
+418;Remote Sensing Scientist;FSU;research/work management;NA;s;4;;do administrational work;research and development;do administrational work
+419;Remote Sensing Scientist;FSU;dissemination of knowledge;NA;c;1;open science;prepare teaching and training materials;dissemination of knowledge;prepare training materials
+420;Remote Sensing Scientist;FSU;dissemination of knowledge;NA;c;2;open science;teach students;dissemination of knowledge;provide and conduct training/teaching
+421;Remote Sensing Scientist;FSU;dissemination of knowledge;NA;c;3;open science;build capacity;dissemination of knowledge;build capacity
+422;Remote Sensing Scientist;FSU;dissemination of knowledge;NA;s;4;;supervise and manage students;dissemination of knowledge;supervise and manage students
+423;Remote Sensing Scientist;FSU;dissemination of knowledge;NA;c;5;open science;publish;dissemination of knowledge;write publications
+424;Remote Sensing Scientist;FSU;Professional development;NA;c;1;open science;read papers;professional development;conduct literature review
+425;Remote Sensing Scientist;FSU;Professional development;NA;c;2;open science;review papers;professional development;review papers
+426;Remote Sensing Scientist;FSU;Professional development;NA;c;3;open science;communicate and exchange with other researchers;professional development;communicate and exchange with other researchers
+427;Remote Sensing Scientist;FSU;Professional development;NA;s;4;open science;learn new methods, techniques and tools;professional development;learn new methods and tools
+428;Remote Sensing Scientist;FSU;Professional development;NA;s;5;;attend conferences, meetings, workshops, etc.;professional development;visit/participate in conferences/events
+429;Remote Sensing Scientist;FSU;Professional development;NA;c;6;open science;publish;professional development;write publications
+430;Remote Sensing and GIS consultant;GIB;communication;NA;s;1;;answering and replying to email;communication and interaction with stakeholders;answering and replying to email
+431;Remote Sensing and GIS consultant;GIB;communication;NA;s;2;;workshops and meetings;communication and interaction with stakeholders;take part in project meetings and workshops
+432;Remote Sensing and GIS consultant;GIB;communication;NA;c;3;;knowledge transfer;communication and interaction with stakeholders;knowledge transfer
+433;Remote Sensing and GIS consultant;GIB;communication;NA;c;4;;give courses/lectures;communication and interaction with stakeholders;provide and conduct training/teaching
+434;Remote Sensing and GIS consultant;GIB;communication;NA;s;5;;presentations;communication and interaction with stakeholders;prepare and conduct presentations
+435;Remote Sensing and GIS consultant;GIB;sales;NA;c;1;;costumer identification;initiation of business;costumer identification
+436;Remote Sensing and GIS consultant;GIB;sales;NA;s;2;;telephone sales;initiation of business;telephone sales
+437;Remote Sensing and GIS consultant;GIB;sales;NA;s;3;;customer meetings;initiation of business;organisation of meetings with end users
+438;Remote Sensing and GIS consultant;GIB;sales;NA;c;4; ;presentations at conferences, customer meetings, for partners ;initiation of business;prepare and conduct presentations
+438;Remote Sensing and GIS consultant;GIB;sales;NA;c;5; ;presentations at conferences, customer meetings, for partners ;initiation of business;organisation of meetings with end users
+439;Remote Sensing and GIS consultant;GIB;sales;NA;s;6;;scanning for new tenders to bid for;initiation of business;search for project funding and new tenders
+440;Remote Sensing and GIS consultant;GIB;sales;NA;c;7;;writing tenders & offers;initiation of business;prepare proposals and offers
+441;Remote Sensing and GIS consultant;GIB;sales;NA;c;8;;writing project applications;initiation of business;prepare proposals and offers
+442;Remote Sensing and GIS consultant;GIB;sales;NA;s;9;;maintain and update web page;initiation of business;maintain and update web page
+443;Remote Sensing and GIS consultant;GIB;sales;NA;s;10;;write and update CV;initiation of business;write and update cv
+444;Remote Sensing and GIS consultant;GIB;administration;NA;s;1;ias;time reports;administration;time reports
+445;Remote Sensing and GIS consultant;GIB;administration;NA;s;2;;invoicing and payment;administration;invoicing and payment
+446;Remote Sensing and GIS consultant;GIB;administration;NA;s;3;;accounting;administration;accounting
+447;Remote Sensing and GIS consultant;GIB;administration;NA;s;4;;tax declarations;administration;tax declarations
+448;Remote Sensing and GIS consultant;GIB;administration;NA;s;5;;human resources management;administration;human resources management
+449;Remote Sensing and GIS consultant;GIB;administration;NA;s;6;;equipment supply;administration;equipment supply
+450;Remote Sensing and GIS consultant;GIB;Professional development;NA;c;1;more important in 5-10 years;keeping up with research, reading papers;professional development;keep up with research, reading papers
+451;Remote Sensing and GIS consultant;GIB;Professional development;NA;c;2;;keeping up to date with industry development;professional development;keep up to date with industry development
+452;Remote Sensing and GIS consultant;GIB;Professional development;NA;t;3;;training (software, statistics, methods);professional development;training
+453;Remote Sensing and GIS consultant;GIB;Professional development;NA;s;4;;attending conferences;professional development;visit/participate in conferences/events
+454;Remote Sensing and GIS consultant;GIB;Professional development;NA;s;5;;attending webinars and seminars;professional development;take training and develop professional skills
+455;Remote Sensing and GIS consultant;GIB;data processing;NA;t;1;more important in 5-10 years;data acquisition;data analysis;acquire data
+456;Remote Sensing and GIS consultant;GIB;data processing;NA;c;2;pas;choice of platform;data analysis;choice of platform
+457;Remote Sensing and GIS consultant;GIB;data processing;NA;c;3;more important in 5-10 years;choice of software and tools;data analysis;choice of software and tools
+458;Remote Sensing and GIS consultant;GIB;data processing;NA;t;4;analysis ready data;data quality check;data analysis;check the data quality
+459;Remote Sensing and GIS consultant;GIB;data processing;NA;t;5;;input/output data structure;data analysis;input/output data structure
+460;Remote Sensing and GIS consultant;GIB;data processing;NA;t;6;analysis ready data;map projections ;data analysis;(re)project data
+461;Remote Sensing and GIS consultant;GIB;data processing;NA;t;7;analysis ready data;format conversions ;data analysis;perform data conversion
+462;Remote Sensing and GIS consultant;GIB;data processing;NA;t;8;;resampling;data analysis;resampling
+463;Remote Sensing and GIS consultant;GIB;data processing;NA;t;9;;editing data;data analysis;edit data
+464;Remote Sensing and GIS consultant;GIB;data processing;NA;t;10;analysis ready data;digitalization;data analysis;digitalization
+465;Remote Sensing and GIS consultant;GIB;data processing;NA;t;11;;segmentation;data analysis;perform image segmentation
+466;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;c;1;;defining problems and possible solutions;data analysis;define problems and possible solutions
+467;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;c;2;;method development;data analysis;method development
+468;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;c;3;;choice of methods and software;data analysis;choice of software and tools
+469;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;c;4;automation of image analysis;image classification: supervised, clustering, rule based, AI;data analysis;conduct image classification
+470;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;t;5;more important in 5-10 years;raster/vector analysis, such as: time series analysis, change detection, vegetation indices, overlays, cost distance, network analysis;data analysis;raster/vector analysis, such as: time series analysis, change detection, vegetation indices, overlays, cost distance, network analysis
+471;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;t;6;more important in 5-10 years;scripting/programming;data analysis;write geoprocessing scripts
+472;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;c;7;;visualization;data analysis;visualization
+473;Remote Sensing and GIS consultant;GIB;data analysis (incl. project work);NA;t;8;more important in 5-10 years;statistics;data analysis;statistics
+474;Remote Sensing and GIS consultant;GIB;validation and quality control;NA;c;1;;suitability of chosen methodology;quality control and validation;suitability of chosen methodology
+475;Remote Sensing and GIS consultant;GIB;validation and quality control;NA;c;2;;defining project requirements;quality control and validation;define project requirements
+476;Remote Sensing and GIS consultant;GIB;validation and quality control;NA;c;3;more important in 5-10 years;quality assessment, accuracy evaluation;quality control and validation;quality assessment, accuracy evaluation
+477;Remote Sensing and GIS consultant;GIB;validation and quality control;NA;c;4;more important in 5-10 years;validation results vs. Project requirements;quality control and validation;validation results vs. project requirements
+478;Remote Sensing and GIS consultant;GIB;validation and quality control;NA;c;5;;quality report ;quality control and validation;quality report
+479;Remote Sensing and GIS consultant;GIB;validation and quality control;NA;c;6;;define and follow quality and environmental policies;quality control and validation;define and follow quality and environmental policies
+480;Remote Sensing and GIS consultant;GIB;project management;NA;c;1;;evaluate project feasibility;project management;evaluate project feasibility
+481;Remote Sensing and GIS consultant;GIB;project management;NA;s;2;;project planning;project management;project planning
+482;Remote Sensing and GIS consultant;GIB;project management;NA;s;3;;project meetings;project management;take part in project meetings and workshops
+483;Remote Sensing and GIS consultant;GIB;project management;NA;s;4;;time and resource planning;project management;time and resource planning
+484;Remote Sensing and GIS consultant;GIB;project management;NA;s;5;;progress reporting;project management;report on activities/progress
+485;Remote Sensing and GIS consultant;GIB;project management;NA;s;6;;time reports;project management;time reports
+486;Remote Sensing and GIS consultant;GIB;project reporting and delivery;NA;c;1;;project presentations;deliverables/product preparation;prepare and conduct presentations
+487;Remote Sensing and GIS consultant;GIB;project reporting and delivery;NA;c;2;;project report;deliverables/product preparation;report on activities/progress
+488;Remote Sensing and GIS consultant;GIB;project reporting and delivery;NA;s;3;;literature review, references;deliverables/product preparation;conduct literature review
+489;Remote Sensing and GIS consultant;GIB;project reporting and delivery;NA;t;4;;data packaging and delivery: format, canal, check list ;deliverables/product preparation;data packaging and delivery: format, canal, check list
+490;Geospatial Data Research Scientist;ROSA;projects conception;NA;c;1;;analyse project call package information requirements;projects conception;analyse project call package information requirements
+491;Geospatial Data Research Scientist;ROSA;projects conception;NA;c;2;ias;implement predefined workflows;projects conception;implement predefined workflows
+492;Geospatial Data Research Scientist;ROSA;projects conception;NA;c;3;;define types of data used in the project;projects conception;identify required types of data
+493;Geospatial Data Research Scientist;ROSA;projects conception;NA;c;4;ias;define methodology;projects conception;define methodology
+494;Geospatial Data Research Scientist;ROSA;projects conception;NA;c;5;;analyse user needs;projects conception;analyse user needs
+495;Geospatial Data Research Scientist;ROSA;projects coordination;NA;c;1;;research analysis methodology;project management;define methodology
+496;Geospatial Data Research Scientist;ROSA;projects coordination;NA;c;2;;establish project goals;project management;define project objectives and goals
+497;Geospatial Data Research Scientist;ROSA;projects coordination;NA;c;3;;define project structure;project management;define project structure
+498;Geospatial Data Research Scientist;ROSA;projects coordination;NA;c;4;;create/establish a data capture plan;project management;create/establish a data capture plan
+499;Geospatial Data Research Scientist;ROSA;projects coordination;NA;c;5;ias;create policies and procedures for storing data;project management;create policies and procedures for storing data
+500;Geospatial Data Research Scientist;ROSA;projects coordination;NA;c;6;;create status updates ;project management;report on activities/progress
+501;Geospatial Data Research Scientist;ROSA;projects coordination;NA;c;7;;specify detailed project plan;project management;specify detailed project plan
+502;Geospatial Data Research Scientist;ROSA;projects coordination;NA;s;8;;time keeping;project management;meet deadlines
+503;Geospatial Data Research Scientist;ROSA;human resources management;NA;c;1;;develop employee responsibilities plan;human resources management;develop employee responsibilities plan
+504;Geospatial Data Research Scientist;ROSA;human resources management;NA;s;2;;plan company events;human resources management;plan company events
+505;Geospatial Data Research Scientist;ROSA;human resources management;NA;c;3;;delegate tasks;human resources management;delegate tasks
+506;Geospatial Data Research Scientist;ROSA;human resources management;NA;c;4;;provide informal training;human resources management;provide informal training
+507;Geospatial Data Research Scientist;ROSA;data acquisition;NA;s;1;;data search;data acquisition;data search
+508;Geospatial Data Research Scientist;ROSA;data acquisition;NA;s;2;;scan maps, documents;data acquisition;scan maps, documents
+509;Geospatial Data Research Scientist;ROSA;data acquisition;NA;t;3;analysis ready data;order archived data (images and vector data);data acquisition;order archived data
+510;Geospatial Data Research Scientist;ROSA;data acquisition;NA;t;4;;collect in-field data (GPS, reference data,…);data acquisition;collect in-field data
+511;Geospatial Data Research Scientist;ROSA;data acquisition;NA;t;5;;create shape files/feature classes;data acquisition;create shape files/feature classes
+512;Geospatial Data Research Scientist;ROSA;data acquisition;NA;t;6;;create metadata;data acquisition;create metadata
+513;Geospatial Data Research Scientist;ROSA;data acquisition;NA;t;7;analysis ready data;assure data quality;data acquisition;assure data quality
+514;Geospatial Data Research Scientist;ROSA;data acquisition;NA;s;8;;collect survey responses (questionnaire);data acquisition;collect survey responses
+515;Geospatial Data Research Scientist;ROSA;manage data;NA;t;1;analysis ready data;edit data (organize attributes);data management;edit data
+516;Geospatial Data Research Scientist;ROSA;manage data;NA;t;2;analysis ready data;convert data to the suitable extension;data management;convert data to the suitable extension
+517;Geospatial Data Research Scientist;ROSA;manage data;NA;t;3;analysis ready data;process GPS data, remote sensing data;data management;process gps data, remote sensing data
+518;Geospatial Data Research Scientist;ROSA;manage data;NA;c;4;analysis ready data;update data according to schedule/project;data management;update data according to schedule/project
+519;Geospatial Data Research Scientist;ROSA;manage data;NA;t;5;;load data into databases;data management;load data into databases
+520;Geospatial Data Research Scientist;ROSA;manage data;NA;t;6;pas;store data;data management;store data
+521;Geospatial Data Research Scientist;ROSA;manage data;NA;t;8;pas;reproject data;data management;(re)project data
+522;Geospatial Data Research Scientist;ROSA;manage data;NA;t;10;pas;versioning;data management;versioning
+523;Geospatial Data Research Scientist;ROSA;manage data;NA;t;12;pas;license data;data management;license data
+524;Geospatial Data Research Scientist;ROSA;manage data;NA;t;7;pas;create geodatabases;data management;create geodatabases
+525;Geospatial Data Research Scientist;ROSA;manage data;NA;t;9;pas;project data;data management;(re)project data
+526;Geospatial Data Research Scientist;ROSA;manage data;NA;t;11;pas;share data;data management;share data
+527;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;1;analysis ready data;build geometric networks;data analysis;build geometric networks
+528;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;2;analysis ready data;write geoprocessing scripts;data analysis;write geoprocessing scripts
+529;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;3;analysis ready data;build geoprocessing models;data analysis;build geoprocessing models
+530;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;4;analysis ready data;create 3D models;data analysis;create 3d models
+531;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;5;;create data subsets;data analysis;create data subsets
+532;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;6;automation of image analysis;image classification ;data analysis;conduct image classification
+533;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;7;;create topology;data analysis;create topology
+534;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;8;ias;create cartographic guidelines;data analysis;create cartographic guidelines
+535;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;9;;generate spatial statistics (vector, raster, interpolate);data analysis;generate spatial statistics
+536;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;10;;generate non-spatial statistics;data analysis;generate non-spatial statistics
+537;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;11;analysis ready data;quality assurance/quality control data;data analysis;assure data quality
+537;Geospatial Data Research Scientist;ROSA;data analysis;NA;t;11;analysis ready data;quality assurance/quality control data;data analysis;control of data quality
+538;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;t;1;;create graphs, charts, tables, and figures;deliverables/product preparation;create graphs, charts, tables, and figures
+539;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;t;2;ias;create information products (PDF, webmap);deliverables/product preparation;create information products
+540;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;t;3;;create videos;deliverables/product preparation;create videos
+541;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;s;4;;create oral presentations;deliverables/product preparation;prepare and conduct presentations
+542;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;t;5;;publish map online;deliverables/product preparation;publish map online
+543;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;t;6;;generate maps;deliverables/product preparation;design of maps
+544;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;t;7;ias;publish web services;deliverables/product preparation;publish web services
+545;Geospatial Data Research Scientist;ROSA;deliverables creation;NA;c;8;;write reports (white papers, brochures);deliverables/product preparation;write reports/deliverables
+546;Geospatial Data Research Scientist;ROSA;Professional development;NA;s;1;;conference attendance and training workshops;professional development;visit/participate in conferences/events
+547;Geospatial Data Research Scientist;ROSA;Professional development;NA;s;2;;pursue professional relationships online (forums, emails);professional development;pursue professional relationships online
+548;Geospatial Data Research Scientist;ROSA;Professional development;NA;s;3;;professional connections face to face (networking);professional development;professional connections face to face
+549;Geospatial Data Research Scientist;ROSA;Professional development;NA;c;4;;provide training;professional development;provide and conduct training/teaching
+550;Geospatial Data Research Scientist;ROSA;Professional development;NA;c;5;;create project deliverables;professional development;write reports/deliverables
+551;Geospatial Data Research Scientist;ROSA;Professional development;NA;s;6;;conduct presentations, workshops, corrdinate scientific events;professional development;prepare and conduct presentations
+551;Geospatial Data Research Scientist;ROSA;Professional development;NA;s;7;;conduct presentations, workshops, corrdinate scientific events;professional development;conduct workshops
+551;Geospatial Data Research Scientist;ROSA;Professional development;NA;s;8;;conduct presentations, workshops, corrdinate scientific events;professional development;coordinate scientific events
+552;Geospatial Data Research Scientist;ROSA;Professional development;NA;c;9;;teach classes;professional development;provide and conduct training/teaching
+553;Geospatial Data Research Scientist;ROSA;Professional development;NA;c;10;;contribute to proposals;professional development;prepare proposals and offers
+554;Geospatial Data Research Scientist;ROSA;Professional development;NA;c;11;;publish papers;professional development;write publications
+555;Geospatial Data Research Scientist;ROSA;Professional development;NA;c;12;;take training  ;professional development;take training
+556;Geospatial Data Research Scientist;ROSA;communication;NA;s;1;;continuous exchange with users;communication and interaction with stakeholders;continuous exchange with users/clients
+557;Geospatial Data Research Scientist;ROSA;communication;NA;s;2;;reporting of progress, results, challenges;communication and interaction with stakeholders;reporting
+558;Geospatial Data Research Scientist;ROSA;communication;NA;s;3;;communication within the organization;communication and interaction with stakeholders;internal project communication
+559;Geospatial Data Research Scientist;ROSA;communication;NA;s;4;;communication with subcontracting institutions and project stakeholders;communication and interaction with stakeholders;communicate with subcontracting institutions and project stakeholders
+560;Geospatial Data Research Scientist;ROSA;communication;NA;s;5;;electronic communication (eg. E-Mail, text);communication and interaction with stakeholders;answering and replying to email
+601;Remote Sensing Researcher for Atmospheric Sciences;UPAT;project conceptualization;NA;c;1;ias;implement predefined workflows;projects conception;implement predefined workflows
+602;Remote Sensing Researcher for Atmospheric Sciences;UPAT;project conceptualization;NA;c;2;;define required types of data;projects conception;identify required types of data
+603;Remote Sensing Researcher for Atmospheric Sciences;UPAT;project conceptualization;NA;c;3;pas;design and define required methodology;projects conception;define methodology
+604;Remote Sensing Researcher for Atmospheric Sciences;UPAT;data acquisition;NA;t;1;pas;search for data;data acquisition;search for data
+605;Remote Sensing Researcher for Atmospheric Sciences;UPAT;data acquisition;NA;t;2;pas;order data (data from ground-based network, national authorities, satellite data etc.);data acquisition;order and download data
+606;Remote Sensing Researcher for Atmospheric Sciences;UPAT;data acquisition;NA;c;3;pas;design optimal measurement networks;data acquisition;design optimal measurement networks
+607;Remote Sensing Researcher for Atmospheric Sciences;UPAT;data acquisition;NA;c;4;pas;organization and implementation of measuring campaigns;data acquisition;organization and implementation of measuring campaigns
+608;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data preprocessing;NA;t;1;analysis ready data;radiometric calibration;data preprocessing;radiometric calibration
+609;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data preprocessing;NA;t;2;analysis ready data;geometric correction  ;data preprocessing;geometric correction
+610;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data preprocessing;NA;t;3;automation of image analysis;image warping and reprojection;data preprocessing;(re)project data
+611;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data preprocessing;NA;c;4;analysis ready data;quality control, quality assurance;data preprocessing;quality control, quality assurance
+612;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data preprocessing;NA;c;5;analysis ready data;trouble shoot issues with measurement devices and data;data preprocessing;trouble shoot issues with data or data acquisition
+613;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Cleaning;NA;t;1;analysis ready data;missing data detection;data cleaning;missing data detection
+614;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Cleaning;NA;t;2;analysis ready data;extreme data detection;data cleaning;extreme data detection
+615;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Cleaning;NA;t;3;analysis ready data;inconsistencies detection;data cleaning;detect inconsistencies
+616;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Cleaning;NA;t;4;analysis ready data;error localization;data cleaning;error localization
+617;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Cleaning;NA;t;5;analysis ready data;technical data correction (missing data imputation, minimal value adjustment);data cleaning;technical data correction
+618;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Analysis;NA;t;1;analysis ready data;data merging from various sources;data analysis;data merging from various sources
+619;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Analysis;NA;c;2;;knowledge of state-of-the art methodologies;data analysis;knowledge of state-of-the art methodologies
+620;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Analysis;NA;c;3;pas;design and structure proposed methodologies;data analysis;design and structure proposed methodologies
+621;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Analysis;NA;c;4;;data modeling (statistical evaluation, machine learning, artificial intelligence etc);data analysis;prepare data model
+622;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Validation;NA;t;1;;test alternative methodologies;quality control and validation;test alternative methodologies
+623;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Validation;NA;t;2;;accuracy metrics - goodness of fit process;quality control and validation;accuracy metrics - goodness of fit process
+624;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Validation;NA;t;3;;validate data for typical and extreme scenarios;quality control and validation;validate data for typical and extreme scenarios
+625;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Validation;NA;t;4;;test alternative data/software/algorithms;quality control and validation;examine and test new tools for data processing and analysis
+626;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Validation;NA;c;5;;acquire feedback from users and incorporate feedback;quality control and validation;acquire user/customer feedback
+626;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Validation;NA;c;6;;acquire feedback from users and incorporate feedback;quality control and validation;incorporate user/customer feedback
+627;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Management;NA;t;1;pas;store data;data management;store data
+628;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Management;NA;t;2;pas;versioning;data management;versioning
+629;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Management;NA;c;3;pas;license data;data management;license data
+630;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Management;NA;t;4;pas;share data;data management;share data
+631;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Management;NA;t;5;pas;sample data open source sample data;data management;sample data open source sample data
+632;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Data Management;NA;s;6;;promote data;data management;promote data
+633;Remote Sensing Researcher for Atmospheric Sciences;UPAT;final product creation;NA;t;1;ias;technical description of data;deliverables/product preparation;technical description of data
+634;Remote Sensing Researcher for Atmospheric Sciences;UPAT;final product creation;NA;t;2;ias;validation description of data;deliverables/product preparation;validation description of data
+635;Remote Sensing Researcher for Atmospheric Sciences;UPAT;final product creation;NA;t;3;ias;description of optimal use to end-users;deliverables/product preparation;prepare user documentation
+636;Remote Sensing Researcher for Atmospheric Sciences;UPAT;final product creation;NA;t;4;ias;data post-processing;deliverables/product preparation;post-processing of data
+637;Remote Sensing Researcher for Atmospheric Sciences;UPAT;final product creation;NA;t;5;ias;information products and versioning;deliverables/product preparation;create information products
+637;Remote Sensing Researcher for Atmospheric Sciences;UPAT;final product creation;NA;t;6;ias;information products and versioning;deliverables/product preparation;versioning
+638;Remote Sensing Researcher for Atmospheric Sciences;UPAT;research & development;NA;t;1;;test alternative software/products;research and development;examine and test new tools for data processing and analysis
+639;Remote Sensing Researcher for Atmospheric Sciences;UPAT;research & development;NA;c;2;;explore future trends;research and development;explore future trends
+640;Remote Sensing Researcher for Atmospheric Sciences;UPAT;research & development;NA;s;3;;communication with data providers, scientists among the organism and abroad;research and development;communicate with data providers
+641;Remote Sensing Researcher for Atmospheric Sciences;UPAT;research & development;NA;s;4;;cooperation with data providers, scientists, etc;research and development;cooperation with data providers, scientists, etc
+642;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Professional development;NA;c;1;;publish scientific results (journals, conferences);professional development;write publications
+643;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Professional development;NA;s;2;;organization of professional and public seminars, workshops, training schools (dissemination);professional development;organization of professional and public seminars, workshops, training schools
+644;Remote Sensing Researcher for Atmospheric Sciences;UPAT;Professional development;NA;s;3;;take training (training schools, workshops, seminars, etc);professional development;take training
+;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;development of end-products;NA;c;5;;prepare reports, methodology, documentation of the end product;deliverables/product preparation;documentation of the end product
+;Remote Sensing Specialist / Researcher in a Private R&D organization;IES;development of end-products;NA;c;4;;prepare reports, methodology, documentation of the end product;deliverables/product preparation;methodology
