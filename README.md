@@ -1,11 +1,4 @@
 
----
-title: "Readme"
-author: "Barbara Hofer"
-date: "30 7 2019"
-output: html_document
----
-
 # Readme for the material provided in the Occupational Profile Analysis 
 
 The material in this repository documents the Occupational Profile Analysis as performed in the EO4GEO project in the first half of 2019.A short summary of the analysis is: 
