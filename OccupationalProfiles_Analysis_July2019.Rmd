@@ -1,21 +1,25 @@
 ---
 title: "OccupationalProfiles_Analysis"
 author: "Barbara Hofer"
-date: "30 7 2019"
-output: 
-html_document:
-  df_print: paged
-toc: yes
+date: "31 7 2019"
+output:
+  pdf_document:
+    df_print: paged
+  html_document:
+    df_print: paged
+toc: TRUE    
 urlcolor: blue
-
 ---
 
+\newpage
 
 ### License
 not yet specified
 
-### Metadata
+### Acknowledgements
+This work was supported by the Sector Skill Alliance project EO4GEO - http://www.eo4geo.eu Many thanks to all EO4GEO partners who contributed occupational profiles.
 
+### Metadata
 Required libraries and runtime environment description.
 
 ```{r load_libraries, echo=TRUE, message=FALSE, warning=FALSE}
@@ -27,10 +31,12 @@ library("data.table")
 library("formattable")
 library("htmltools")
 library("devtools")
+library("knitr")
 ```
 
-```{r session_info}
-#devtools::session_info(include_base = TRUE, echo=FALSE)
+```{r session_info, echo=FALSE, warning=FALSE}
+# wrap long lines in R:
+opts_chunk$set(tidy.opts=list(width.cutoff=70),tidy=TRUE)
 ```
 \newpage
 
@@ -74,7 +80,7 @@ profiles$task.man <- str_trim(profiles$task.man)
 
 ```
 
-```{r identify number of profiles}
+```{r identify number of profiles, echo=FALSE}
 nprofiles <- length(unique(profiles$profile.name))
 
 ```
@@ -82,8 +88,14 @@ nprofiles <- length(unique(profiles$profile.name))
 ``` {r comparison of original and manipulated duty columns}
 
 #number of original duties and manipulated duties:
-unique(profiles$duty)
-unique(profiles$duty.man)
+nduty <- length(unique(profiles$duty))
+nduty.man <- length(unique(profiles$duty.man))
+
+#number of (original) duties
+nduty
+
+#number of manipulated duties
+nduty.man
 
 #table summarizing the manipulation of the duties
 dutynames <- profiles %>% group_by(profiles$duty, profiles$duty.man) %>% summarize()
@@ -95,15 +107,22 @@ datatable(dutynames)
 
 ``` {r comparison of original and manipulated task columns}
 
-unique(profiles$original.task.name)
-unique(profiles$task.man)
+ntasks <- length(unique(profiles$original.task.name))
+ntasks.man <- length(unique(profiles$task.man))
+
+# number of (original) tasks
+ntasks
+
+# number of manipulated tasks  
+ntasks.man
 
 #generate a table for the original and manipulated tasks
 tasknames <- profiles %>% group_by(  profiles$original.task.name, profiles$task.man) %>% summarize()
 datatable(tasknames)
 
 ```
-```{r calculate frequency of duties, echo=FALSE}
+
+```{r calculate frequency of duties}
 
 #I do a grouping by profile and duties and summarize the values
 #the grouping is necessary because I have a duty entry for every task (row); so I summarize by original.profile to have a non-redundant list of duties
@@ -138,7 +157,7 @@ oprofiles$dfreq <-  round(oprofiles$dfreq,0)
 oprofiles <- oprofiles[order(oprofiles$dfreq, decreasing = T),]
 
 ```
-## Paper corpus: loading and cleaning
+### Frequency of duties over the profiles
 The frequency of duties is provided in the following table: 
 
 ```{r result duty frequency }
@@ -146,11 +165,14 @@ datatable(oprofiles)
 
 
 ```
-## Paper corpus: loading and cleaning
+\newpage
+
+### Cross section through the profiles per duty
+
 In the following, two directories are created and filled with HTML table that include the tasks of single duties. The tasks are thereby either colored according to the indicate skill level that is required or according to trends that were identified. This results in two collections of 19 tables each that provide the main output of this analysis.
 
 
-```{r generate single task collection for each duty}
+```{r generate single task collection for each duty, warning=FALSE}
 # I build on the 19 duties and extract tasks for each profile in the original order
 # I need the set of duties to iterate over
 # in each iteration, I need to identify the profiles containing the duties and select the tasks of the duty
@@ -212,7 +234,7 @@ for (d in 1:length(dutylist)) {
   }
   
   
-  write.csv2(proftasks,paste("Duties_skills/",dutylist[d], ".csv", sep=""), row.names = TRUE)
+  #write.csv2(proftasks,paste("Duties_skills/",dutylist[d], ".csv", sep=""), row.names = TRUE)
   
   
 
@@ -323,8 +345,6 @@ for (d in 1:length(dutylist)) {
   remove(proftasks)
   remove(proftasksp)
 }
-
-
 
 
 ```
