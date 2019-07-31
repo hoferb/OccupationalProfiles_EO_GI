@@ -24,6 +24,7 @@ To use the material  provided in this repository, please download the .Rmd and P
   - `tasks_mindmap_09_07_2019.vue`: VUE file of task renaming
 - `Profiles_inputdata_300719.csv`: List of duties and tasks of provided occupational profiles
 - `OccupationalProfiles_Analysis_July2019.Rmd`: R Markdown document with code used for the analysis of the profiles and the generation of two tables per duty with indication of skill levels of tasks respectively trends affecting tasks
-- `OccupationalProfiles_Analysis_July2019.html`: A PDF rendering of the analysis document for viewing.
+- `OccupationalProfiles_Analysis_July2019.pdf`: A PDF rendering of the analysis document for viewing.
+- `OccupationalProfiles_Analysis_July2019.html`: A html of the analysis document for viewing.
 
 ## License
